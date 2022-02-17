@@ -2,7 +2,7 @@
 
 I'm currently study as a **Informatics Engineering** student in **Sepuluh Nopember Institute of Technology** 2019. I have an interest in **Software Develpoment** and I'm looking forward to learn more about it. Thanks for your interest!
 
-- 🔭 I’m currently studying on <a href="https://www.its.ac.id/id/beranda/" target="_blank">Informatics Engineering Sepuluh Nopember Institute of Technology</a>
+- 🔭 I’m currently studying on <a href="https://www.its.ac.id/id/beranda/" target="_blank" rel="noopener noreferrer">Informatics Engineering Sepuluh Nopember Institute of Technology</a>
 - 🌱 I’m currently learning about Software Development
 - 📫 How to reach me : fillahaufi140101@gmail.com
 - :full_moon_with_face: Visit my portofolio <a href="https://fillahaufi.github.io/">Here</a>
