@@ -1,6 +1,6 @@
 ### Hello Everyone! 👋 I'm Aufi
 
-I'm currently study as a **Informatics Engineering** student in **Sepuluh Nopember Institute of Technology** 2019. I have an interest in **Software Develpoment** and I'm looking forward to learn more about it. Thanks for your interest!
+I am an Informatics Engineering student from **Sepuluh Nopember Institute of Technology**. Experienced in web application development using framework such as **Flask** and **Laravel**, android development using **Kotlin**, and database management using **mySQL** and **SQLite**. I like to hone my skill in technology development and interested to look forward to **Front-End Development** and **Android Development**.
 
 - 🔭 I’m currently studying on <a href="https://www.its.ac.id/id/beranda/" target="_blank" rel="noopener noreferrer">Informatics Engineering Sepuluh Nopember Institute of Technology</a>
 - 🌱 I’m currently learning about Software Development
