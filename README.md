@@ -5,7 +5,7 @@ I am an Informatics Engineering student from **Sepuluh Nopember Institute of Tec
 - 🔭 I’m currently studying on <a href="https://www.its.ac.id/id/beranda/" target="_blank" rel="noopener noreferrer">Informatics Engineering Sepuluh Nopember Institute of Technology</a>
 - 🌱 I’m currently learning about Software Development
 - 📫 How to reach me : fillahaufi140101@gmail.com
-- :full_moon_with_face: Visit my portofolio <a href="https://fillahaufi.me/">Here</a>
+- :full_moon_with_face: Visit my portofolio <a href="https://fillahaufi.me/">fillahaufi.me</a>
 
 ### Tech Stack
 
